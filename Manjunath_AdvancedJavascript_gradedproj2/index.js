@@ -1,4 +1,4 @@
-let url ='https://raw.githubusercontent.com/patilmanjunathp/Manjunath_AdvancedJavascript_gradedproj2/master/Data.json'
+let url ='https://raw.githubusercontent.com/patilmanjunathp/Manjunath_AdvancedJavascript_gradedproj2/main/Manjunath_AdvancedJavascript_gradedproj2/Data.json'
 let nextButton = document.querySelector(".next");
 let prevButton = document.querySelector(".previous");
 let searchBox = document.querySelector(".search-box");
